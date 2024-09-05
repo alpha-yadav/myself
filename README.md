@@ -1,2 +1,2 @@
-# myself
-details about me
+# Myself
+Details about me
